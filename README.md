@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritom-here" alt="pritom-here" /></a> </p>
 
-- 🔭 I’m currently working on [M-Flix (A movie streaming app using React and API))](https://something.mflix.com)
+- 🔭 I’m currently working on [M-Flix (A movie streaming app using React and themoviedb.org API))](https://something.mflix.com)
 
 - 🌱 I’m currently learning **Node**
 
@@ -14,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://hopeful-dubinsky-da3dc6.netlify.app/about-me](https://hopeful-dubinsky-da3dc6.netlify.app/about-me)
 
 - 📫 How to reach me **pritomchakraborty@outlook.com**
+
+- ⚡ Fun fact **The more I learn, the more I see how litte I know.**
 
 
 <h3 align="left">Languages and Tools:</h3>
