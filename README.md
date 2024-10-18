@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritom-here" alt="pritom-here" /></a> </p>
 
-- 🔭 I’m currently working on [M-Flix (A movie streaming app using React and themoviedb.org API))](https://something.mflix.com)
+- 🔭 I’m currently working with Ant Technology Systems(https://antechsys.com)
 
-- 🌱 I’m currently learning **Node**
+- 🌱 In the meantime, I’m trying to learn Mobile App Development with React Native and Flutter
 
-- 🤝 I’m looking for help with **Learning Node & Vue**
+- 🤝 I would love to work on a Mobile App Development Project next
 
 - 👨‍💻 All of my projects are available at [https://hopeful-dubinsky-da3dc6.netlify.app/about-me](https://hopeful-dubinsky-da3dc6.netlify.app/about-me)
 
-- 📫 How to reach me **pritomchakraborty@outlook.com**
+- 📫 You can reach me at: **pritomchakraborty@outlook.com**. Or my LinkedIn Profile: **www.linkedin.com/in/pritom-here**
 
 - ⚡ Fun fact **The more I learn, the more I see how litte I know.**
 
