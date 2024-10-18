@@ -11,8 +11,6 @@
 
 - 🤝 I would love to work on a Mobile App Development Project next
 
-- 👨‍💻 All of my projects are available at [https://hopeful-dubinsky-da3dc6.netlify.app/about-me](https://hopeful-dubinsky-da3dc6.netlify.app/about-me)
-
 - 📫 You can reach me at: **pritomchakraborty@outlook.com**. Or my LinkedIn Profile: **www.linkedin.com/in/pritom-here**
 
 - ⚡ Fun fact **The more I learn, the more I see how litte I know.**
